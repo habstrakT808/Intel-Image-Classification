@@ -183,9 +183,7 @@ Training utilizes several callbacks:
 - **TensorBoard**: Logs metrics for visualization
 - **Target Accuracy Callback**: Stops training when accuracy reaches 95%
 
-<p align="center">
-  <img src="/api/placeholder/700/350" alt="Training History" />
-</p>
+![Image](https://github.com/user-attachments/assets/a28556c7-69d4-45cf-b028-3cd1147201b0)
 
 ## 📈 Results
 
@@ -198,9 +196,7 @@ The model achieves excellent performance on the classification task:
 
 ### Confusion Matrix
 
-<p align="center">
-  <img src="/api/placeholder/600/600" alt="Confusion Matrix" />
-</p>
+![Image](https://github.com/user-attachments/assets/26cb658c-6857-47ea-a7c2-fe25e6502203)
 
 The confusion matrix shows that the model performs well across all classes, with minimal confusion between similar categories like "glacier" and "mountain".
 
